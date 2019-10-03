@@ -1,8 +1,8 @@
 print("Please enter the activity to be performed.")
 
-cal = input()
+act = input()
 
-if(cal == "calculate"):
+if(act == "calculate"):
     print("Performing calculations...")
 
 else:
